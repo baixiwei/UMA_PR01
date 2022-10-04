@@ -1,5 +1,3 @@
-# Readme
-
 This repo contains UMA (Unified Model of Arithmetic) version 0.600. This version of UMA is substantively identical to the version (0.550) used for simulations submitted to Psychological Review in June 2022. Changes were made to make the code easier to understand (e.g., editing comments for clarity, deleting imports and functions that are no longer used) but no changes were made that affect the functioning of the model or simulations.
 
 uma.py contains UMA's architecture and several production rules that are to be included in any UMA model.
